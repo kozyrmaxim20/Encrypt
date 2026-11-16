@@ -1,0 +1,32 @@
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice_2.Form1.resources
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.csproj.GenerateResource.cache
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.AssemblyInfoInputs.cache
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.AssemblyInfo.cs
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.csproj.CoreCompileInputs.cache
+F:\Учебная практика\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.exe
+F:\Учебная практика\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.deps.json
+F:\Учебная практика\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.runtimeconfig.json
+F:\Учебная практика\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.dll
+F:\Учебная практика\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.pdb
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.dll
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\refint\Practice 2.dll
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.pdb
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.genruntimeconfig.cache
+F:\Учебная практика\Практика 2\Practice 2\obj\Debug\net10.0-windows\ref\Practice 2.dll
+F:\Практика\Практика 2\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.exe
+F:\Практика\Практика 2\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.deps.json
+F:\Практика\Практика 2\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.runtimeconfig.json
+F:\Практика\Практика 2\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.dll
+F:\Практика\Практика 2\Практика 2\Practice 2\bin\Debug\net10.0-windows\Practice 2.pdb
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice_2.Form1.resources
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.csproj.GenerateResource.cache
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.AssemblyInfoInputs.cache
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.AssemblyInfo.cs
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.csproj.CoreCompileInputs.cache
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.dll
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\refint\Practice 2.dll
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.pdb
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\Practice 2.genruntimeconfig.cache
+F:\Практика\Практика 2\Практика 2\Practice 2\obj\Debug\net10.0-windows\ref\Practice 2.dll
